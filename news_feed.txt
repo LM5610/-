@@ -6,7 +6,7 @@
 <description>PokeMMO2=</description>
 <language>en</language>
 <serverstatus theme="warning">
-<string>What the FUCK FUck FuCK fUCK does a nigga have to do to get a purple classic penguiun?</string>
+<string>小袋鼠,小袋鼠,我爱你,我爱你.</string>
 </serverstatus>
 <item>
 <title>暂无联系方式但是可以点击玩一把4399</title>
